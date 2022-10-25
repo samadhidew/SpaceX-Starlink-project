@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\WFA Lab 8\bin\Debug\WFA Lab 8.exe.config
+C:\Users\hp\source\repos\WFA Lab 8\bin\Debug\WFA Lab 8.exe
+C:\Users\hp\source\repos\WFA Lab 8\bin\Debug\WFA Lab 8.pdb
+C:\Users\hp\source\repos\WFA Lab 8\obj\Debug\WFA Lab 8.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\WFA Lab 8\obj\Debug\WFA_Lab_8.Form1.resources
+C:\Users\hp\source\repos\WFA Lab 8\obj\Debug\WFA_Lab_8.Properties.Resources.resources
+C:\Users\hp\source\repos\WFA Lab 8\obj\Debug\WFA Lab 8.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WFA Lab 8\obj\Debug\WFA Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WFA Lab 8\obj\Debug\WFA Lab 8.exe
+C:\Users\hp\source\repos\WFA Lab 8\obj\Debug\WFA Lab 8.pdb
+C:\Users\hp\source\repos\WFA Lab 8\bin\Debug\Database.mdf
+C:\Users\hp\source\repos\WFA Lab 8\bin\Debug\Database_log.ldf
